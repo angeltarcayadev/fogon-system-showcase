@@ -44,7 +44,6 @@ Desarrollado por **Ángel Tarcaya** (Angel Dev Technology).
 Soy un desarrollador enfocado en crear soluciones tecnológicas eficientes, modernas y seguras para negocios y eventos.
 
 *   ✉️ **Contacto:** angeltarcaya.dev@gmail.com
-*   🌐 **Portfolio:** [Tu Enlace de Portfolio]
 
 ---
 *Este repositorio es una muestra de código (Showcase) para fines de portafolio y demostración de habilidades técnicas.*
