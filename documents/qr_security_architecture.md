@@ -55,8 +55,3 @@ if (identificador.startsWith('http')) {
 }
 // POST a la API usando idLimpio
 ```
-
-## 4. Consideraciones para Producción
-
-- Asegurar que el dominio `sistema-fogon.com` sea propiedad de la institución y esté apuntado a los servidores donde residirá `/Pages/qr/qr-error.html`.
-- Si por alguna razón el dominio cambia en el futuro, las entradas antiguas que posean el dominio viejo seguirán funcionando sin problemas para el personal de seguridad (ya que el script `guardia-logic.js` solo busca el parámetro `ticket` sin importar de qué dominio provenga).
