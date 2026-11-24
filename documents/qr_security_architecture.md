@@ -2,6 +2,8 @@
 
 Este documento describe la arquitectura implementada para la validación segura de entradas mediante códigos QR en el sistema del **Fogón Institucional**.
 
+> **Nota:** este caso de estudio corresponde a la primera versión del sistema, en la que la entrada se enviaba por email. En la versión usada en el evento, la entrada se entregó como ticket en PDF con el mismo QR de doble flujo, y la validación pasó a ser transaccional (una entrada no puede ingresar dos veces). Los dominios de los ejemplos son ilustrativos.
+
 ## 1. El Problema de Seguridad (Threat Model)
 
 En implementaciones iniciales, el código QR contenía en texto plano el Identificador Único Universal (UUID) de la entrada (por ejemplo: `b383-0df0e92f6bd4`). 
