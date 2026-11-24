@@ -137,26 +137,65 @@ Este es un **repositorio de muestra**: el código completo es privado por la con
 
 ## 👥 Créditos
 
-### Desarrollo de la plataforma
+<h3 align="center">Desarrollo de la plataforma</h3>
 
-- [**Angel Tarcaya**](https://github.com/angeltarcayadev)
+<p align="center">
+  <a href="https://github.com/angeltarcayadev">
+    <img src="./assets/equipo/angel-tarcaya.png" alt="Foto de Angel Tarcaya" width="130">
+  </a>
+  <br>
+  <strong>Angel Tarcaya</strong>
+  <br>
+  <sub>Desarrollo full stack · arquitectura · despliegue</sub>
+</p>
 
-### Coordinación
+<h3 align="center">Coordinación</h3>
 
-- **Damián Tejerina**: coordinación y nexo con la dirección del colegio.
-- **Angel Tarcaya**: coordinación del equipo y del proyecto.
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="./assets/equipo/damian-tejerina.png" alt="Damián Tejerina" width="110">
+      <br>
+      <strong>Damián Tejerina</strong>
+      <br>
+      <sub>Coordinación y nexo con la dirección del colegio</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="./assets/equipo/angel-tarcaya.png" alt="Angel Tarcaya" width="110">
+      <br>
+      <strong>Angel Tarcaya</strong>
+      <br>
+      <sub>Coordinación del equipo y del proyecto</sub>
+    </td>
+  </tr>
+</table>
 
-### Colaboradores · equipo Arce Tech
+<h3 align="center">Colaboradores · equipo Arce Tech</h3>
 
-Estudiantes de la Tecnicatura Superior en Ciencias de Datos e IA del IES N.º 10 que operaron el sistema durante el evento:
+<p align="center">
+  Estudiantes de la Tecnicatura Superior en Ciencias de Datos e IA del IES N.º 10 que operaron el sistema durante el evento.
+</p>
 
-| Integrante | Rol |
-| --- | --- |
-| Nicolás Arce | Seguridad (módulo de guardia) y carga de datos |
-| Facundo Saldaño | Seguridad (módulo de guardia) y carga de datos |
-| Luciano Vaca | Seguridad (módulo de guardia) y carga de datos |
-| Maxi Tamayo | Seguridad (módulo de guardia) y carga de datos |
-| Enzo Tamayo | Mesa de ayuda (panel Admin) y carga de datos |
+<p align="center">
+  <img src="./assets/equipo/equipo-evento.jpg" alt="El equipo completo en el ingreso del evento" width="420">
+  <br>
+  <sub>El equipo completo en el ingreso, la noche del evento</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/equipo/equipo-carga-de-datos.jpg" alt="El equipo durante una jornada de trabajo" width="720">
+  <br>
+  <sub>El equipo durante una jornada de trabajo</sub>
+</p>
+
+<table align="center">
+  <tr><th>Integrante</th><th>Rol</th></tr>
+  <tr><td>Nicolás Arce</td><td>Seguridad (módulo de guardia) y carga de datos</td></tr>
+  <tr><td>Facundo Saldaño</td><td>Seguridad (módulo de guardia) y carga de datos</td></tr>
+  <tr><td>Luciano Vaca</td><td>Seguridad (módulo de guardia) y carga de datos</td></tr>
+  <tr><td>Maxi Tamayo</td><td>Seguridad (módulo de guardia) y carga de datos</td></tr>
+  <tr><td>Enzo Tamayo</td><td>Mesa de ayuda (panel Admin) y carga de datos</td></tr>
+</table>
 
 ### Instituciones
 
