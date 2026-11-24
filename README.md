@@ -176,6 +176,51 @@ Este es un **repositorio de muestra**: el código completo es privado por la con
   Estudiantes de la Tecnicatura Superior en Ciencias de Datos e IA del IES N.º 10 que operaron el sistema durante el evento.
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="170">
+      <img src="./assets/equipo/nicolas-arce.png" alt="Nicolás Arce" width="100">
+      <br>
+      <strong>Nicolás Arce</strong>
+      <br>
+      <sub>Seguridad (guardia) y carga de datos</sub>
+    </td>
+    <td align="center" width="170">
+      <img src="./assets/equipo/luciano-vaca.png" alt="Luciano Vaca" width="100">
+      <br>
+      <strong>Luciano Vaca</strong>
+      <br>
+      <sub>Seguridad (guardia) y carga de datos</sub>
+    </td>
+    <td align="center" width="170">
+      <img src="./assets/equipo/maxi-tamayo.png" alt="Maxi Tamayo" width="100">
+      <br>
+      <strong>Maxi Tamayo</strong>
+      <br>
+      <sub>Seguridad (guardia) y carga de datos</sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="170">
+      <img src="./assets/equipo/facundo-saldano.png" alt="Facundo Saldaño" width="100">
+      <br>
+      <strong>Facundo Saldaño</strong>
+      <br>
+      <sub>Seguridad (guardia) y carga de datos</sub>
+    </td>
+    <td align="center" width="170">
+      <img src="./assets/equipo/enzo-tamayo.png" alt="Enzo Tamayo" width="100">
+      <br>
+      <strong>Enzo Tamayo</strong>
+      <br>
+      <sub>Mesa de ayuda (panel Admin) y carga de datos</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="./assets/equipo/equipo-evento.jpg" alt="El equipo completo en el ingreso del evento" width="420">
   <br>
@@ -187,15 +232,6 @@ Este es un **repositorio de muestra**: el código completo es privado por la con
   <br>
   <sub>El equipo durante una jornada de trabajo</sub>
 </p>
-
-<table align="center">
-  <tr><th>Integrante</th><th>Rol</th></tr>
-  <tr><td>Nicolás Arce</td><td>Seguridad (módulo de guardia) y carga de datos</td></tr>
-  <tr><td>Facundo Saldaño</td><td>Seguridad (módulo de guardia) y carga de datos</td></tr>
-  <tr><td>Luciano Vaca</td><td>Seguridad (módulo de guardia) y carga de datos</td></tr>
-  <tr><td>Maxi Tamayo</td><td>Seguridad (módulo de guardia) y carga de datos</td></tr>
-  <tr><td>Enzo Tamayo</td><td>Mesa de ayuda (panel Admin) y carga de datos</td></tr>
-</table>
 
 ### Instituciones
 
