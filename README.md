@@ -221,18 +221,6 @@ Este es un **repositorio de muestra**: el código completo es privado por la con
   </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/equipo/equipo-evento.jpg" alt="El equipo completo en el ingreso del evento" width="420">
-  <br>
-  <sub>El equipo completo en el ingreso, la noche del evento</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/equipo/equipo-carga-de-datos.jpg" alt="El equipo durante una jornada de trabajo" width="720">
-  <br>
-  <sub>El equipo durante una jornada de trabajo</sub>
-</p>
-
 ### Instituciones
 
 - **Institución destinataria:** Colegio Secundario N.º 47 «Dr. René Favaloro».
