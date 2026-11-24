@@ -137,8 +137,29 @@ Este es un **repositorio de muestra**: el código completo es privado por la con
 
 ## 👥 Créditos
 
-- **Desarrollo de la plataforma y coordinación:** [Angel Tarcaya](https://github.com/angeltarcayadev)
-- **Operación del evento** (coordinación, carga de datos, control de acceso y mesa de ayuda): equipo **Arce Tech**, estudiantes de la Tecnicatura Superior en Ciencias de Datos e IA del IES N.º 10.
+### Desarrollo de la plataforma
+
+- [**Angel Tarcaya**](https://github.com/angeltarcayadev)
+
+### Coordinación
+
+- **Damián Tejerina**: coordinación y nexo con la dirección del colegio.
+- **Angel Tarcaya**: coordinación del equipo y del proyecto.
+
+### Colaboradores · equipo Arce Tech
+
+Estudiantes de la Tecnicatura Superior en Ciencias de Datos e IA del IES N.º 10 que operaron el sistema durante el evento:
+
+| Integrante | Rol |
+| --- | --- |
+| Nicolás Arce | Seguridad (módulo de guardia) y carga de datos |
+| Facundo Saldaño | Seguridad (módulo de guardia) y carga de datos |
+| Luciano Vaca | Seguridad (módulo de guardia) y carga de datos |
+| Maxi Tamayo | Seguridad (módulo de guardia) y carga de datos |
+| Enzo Tamayo | Mesa de ayuda (panel Admin) y carga de datos |
+
+### Instituciones
+
 - **Institución destinataria:** Colegio Secundario N.º 47 «Dr. René Favaloro».
 - **Institución formadora:** IES N.º 10, sede Fraile Pintado, en el marco de las Prácticas Profesionalizantes.
 
