@@ -1,29 +1,29 @@
-# 🔥 Fogón Institucional 2026 · Sistema de registro y control de accesos
+# 🔥 Fogón Institucional 2026
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Estado-Usado_en_un_evento_real-success" alt="Usado en un evento real">
-  <img src="https://img.shields.io/badge/Node.js-Express-339933?logo=nodedotjs&logoColor=white" alt="Node.js y Express">
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Firebase-Firestore-FFCA28?logo=firebase&logoColor=black" alt="Firebase Firestore">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-</div>
+### Sistema de registro y control de accesos · usado en un evento real
 
-<br>
+[![Fogón Institucional 2026](https://angeltarcaya.vercel.app/assets/img/projects/fogon.jpg)](https://sytemfogon.digital)
 
-<p align="center">
-  <img src="./assets/01-registro-inicio.png" alt="Página principal del sistema de registro del Fogón Institucional" width="100%">
-</p>
-
-<p align="center">
-  🌐 <a href="https://sytemfogon.digital"><strong>sytemfogon.digital</strong></a>
-</p>
+![Estado](https://img.shields.io/badge/Estado-usado%20en%20un%20evento%20real-2E7D32?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-InsForge-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-hosting-000000?style=flat-square&logo=vercel&logoColor=white)
+[![Licencia](https://img.shields.io/github/license/angeltarcayadev/fogon-system-showcase?label=licencia&style=flat-square)](https://github.com/angeltarcayadev/fogon-system-showcase/blob/main/LICENSE)
 
 Plataforma web que digitalizó las entradas del **Fogón Institucional del Día del Profesor**, organizado por el **Colegio Secundario N.º 47 «Dr. René Favaloro»** de Libertador General San Martín (Jujuy). Emite entradas en PDF con código QR, valida cada ingreso en la puerta por QR o por DNI, da a la mesa de ayuda una vista en tiempo real de los asistentes y resuelve el sorteo en vivo entre los presentes.
 
 Fue desarrollada como proyecto de **Prácticas Profesionalizantes** de la Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial del **IES N.º 10**, y se usó en el evento del **11 de septiembre de 2026**.
 
----
+> 🎟️ **679 entradas** con QR emitidas y **601 ingresos** validados en puerta en una sola noche.
+
+> 🔒 Por el acuerdo de confidencialidad con el colegio, este repositorio es una muestra: no tiene datos personales ni el código completo.
+
+## Miralo
+
+[![Sitio](https://img.shields.io/badge/Sitio-sytemfogon.digital-FF6D00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://sytemfogon.digital)
+[![Arquitectura](https://img.shields.io/badge/Seguridad-arquitectura%20del%20QR-6A1B9A?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=101010)](documents/qr_security_architecture.md)
+[![Portafolio](https://img.shields.io/badge/Ver%20en-mi%20portafolio-E02D2D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://angeltarcaya.vercel.app/proyectos/fogon-2026/)
 
 ## 📊 Resultados
 
@@ -222,6 +222,17 @@ Este es un **repositorio de muestra**: el código completo es privado por la con
 </table>
 
 ### Instituciones
+
+- **Institución destinataria:** Colegio Secundario N.º 47 «Dr. René Favaloro».
+- **Institución formadora:** IES N.º 10, sede Fraile Pintado, en el marco de las Prácticas Profesionalizantes.
+
+## Autor
+
+**Angel Eduardo Tarcaya** · Desarrollador web · Datos e IA · Jujuy, Argentina
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-angeltarcaya.vercel.app-E02D2D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://angeltarcaya.vercel.app/proyectos/fogon-2026/)
+[![GitHub](https://img.shields.io/badge/GitHub-angeltarcayadev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/angeltarcayadev)
+[![Email](https://img.shields.io/badge/Email-angeltarcaya.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:angeltarcaya.dev@gmail.com)
 
 - **Institución destinataria:** Colegio Secundario N.º 47 «Dr. René Favaloro».
 - **Institución formadora:** IES N.º 10, sede Fraile Pintado, en el marco de las Prácticas Profesionalizantes.
